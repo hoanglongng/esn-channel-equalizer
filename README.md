@@ -7,3 +7,5 @@ These files are used for simulation of channel equalizer for a nonlinear wireles
  
 - The noisy nonlinearity
   u(n) = q(n) + 0.036q(n)^2 - 0.011q(n)^3 + noise(n)
+
+Note: Code is still needed to be edited
